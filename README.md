@@ -4,7 +4,7 @@ A portfolio of apps I created for learning purposes and showcasing
 
 ![NetflixClone](https://github.com/malach1/portfolio/assets/5972850/f299cc56-ea9e-40e7-952d-9fa27251d480)<br>
 
-<img src="[SwiftUI_Templates/ReadMe/Images/3DShoe.gif](https://github.com/malach1/portfolio/assets/5972850/f299cc56-ea9e-40e7-952d-9fa27251d480)" width=500>
+<img src="https://github.com/malach1/portfolio/assets/5972850/f299cc56-ea9e-40e7-952d-9fa27251d480" width=500>
 
 [![Netflix Clone](https://github.com/malach1/portfolio/assets/5972850/fdd97207-ddd1-4ff9-9432-09e8c4a3f329)]([https://github.com/malach1/portfolio/assets/5972850/fdd97207-ddd1-4ff9-9432-09e8c4a3f329)
 <br><br>
