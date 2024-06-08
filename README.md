@@ -3,14 +3,14 @@ A portfolio of apps I have created for learning purposes and showcasing.<br>
 You can view the animated gif but please click on the video links for greater quality viewing.<br><br>
 
 I created two Netflix clone.  The left uses UIKit and the right uses SwiftUI.
-Learning the techniques of the layouts and my findings is you can build and iterate faster with SwiftUI.<br>
+The goal was to learn the techniques of the layouts and my findings is you can build and iterate faster with SwiftUI.<br>
 <img src="https://github.com/malach1/portfolio/assets/5972850/f299cc56-ea9e-40e7-952d-9fa27251d480" width=300><br>
 
 [![Netflix Clone Video](https://github.com/malach1/portfolio/assets/5972850/fdd97207-ddd1-4ff9-9432-09e8c4a3f329)]([https://github.com/malach1/portfolio/assets/5972850/fdd97207-ddd1-4ff9-9432-09e8c4a3f329)
 <br><br>
 
 Media is interesting to me and this app was built to learn the components of building a video play with AVFoundation libraries such as AVPlayer.
-Dragging and seeing thumbnails was the feature I wanted to especially learn.<br>
+Dragging and seeing thumbnails was the interesting feature I wanted to learn.<br>
 <img src="https://github.com/malach1/portfolio/assets/5972850/e8b89cfb-f5ff-4974-bb2a-cecc5feddaf8" width=300><br>
 
 [![Custom Video Player Video](https://github.com/malach1/portfolio/assets/5972850/2c5d8c35-1934-4b0d-ae4a-50bbbd769835)]([https://github.com/malach1/portfolio/assets/5972850/2c5d8c35-1934-4b0d-ae4a-50bbbd769835)
