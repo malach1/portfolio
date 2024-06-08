@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 A portfolio of apps I have created for learning purposes and showcasing.<br>
 You can view the animated gif but please click on the video links for greater quality viewing.<br><br>
 
