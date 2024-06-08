@@ -11,7 +11,7 @@ A portfolio of apps I created for learning purposes and showcasing
 [![Custom Video Player](https://github.com/malach1/portfolio/assets/5972850/2c5d8c35-1934-4b0d-ae4a-50bbbd769835)]([https://github.com/malach1/portfolio/assets/5972850/2c5d8c35-1934-4b0d-ae4a-50bbbd769835)
 
 <br><br>
-<img src="https://github.com/malach1/portfolio/assets/5972850/dd7b4aa5-7515-4b36-b29c-bdf44f8459c9" width=500><br>
+<img src="https://github.com/malach1/portfolio/assets/5972850/f5f7d4bc-132a-4a7b-bd96-41643a2d9e23" width=500><br>
 
 [![map!t](https://github.com/malach1/portfolio/assets/5972850/dd7b4aa5-7515-4b36-b29c-bdf44f8459c9)]([https://github.com/malach1/portfolio/assets/5972850/dd7b4aa5-7515-4b36-b29c-bdf44f8459c9)
 
