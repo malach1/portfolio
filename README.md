@@ -1,5 +1,5 @@
 # Portfolio
-A portfolio of apps I have created for learning purposes and showcasing.<br>
+A portfolio of a few apps I have created for learning purposes and showcasing.<br>
 The animated gif is for high level viewing, but please click on the video links for greater quality viewing.<br><br>
 
 I created two Netflix clone.  The left uses UIKit and the right uses SwiftUI.
