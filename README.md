@@ -24,7 +24,7 @@ Airbnb is a prime example of a well-designed app that has invested significant t
 
 <br><br>
 
-### Tik Tok Clone
+### TikTok Clone
   
 The innovative approach of distributing video content and incorporating gesture-based panning was a fascinating technique to master, allowing for a more immersive and interactive experience for users.<br><br>
 <img src="https://github.com/malach1/portfolio/assets/5972850/d48cdcd6-d707-4804-9346-40bf0a29570e" width=300><br>
