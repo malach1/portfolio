@@ -50,7 +50,7 @@ I created to app for this purpose and you can <a href="https://apps.apple.com/jp
 
 <br><br>
 
-Generative AI is an interesting phenomon and I am doing research in the Applied Generative AI space.  I built Alicia AI as a language learning chatbot with features to help you study.<br><br>
+Generative AI is an interesting phenomenon and I am doing research in the Applied Generative AI space.  I built Alicia AI as a language learning chatbot with features to help you study.<br><br>
 <img src="https://github.com/malach1/portfolio/assets/5972850/a05728c2-0c24-4a3e-a0b9-aa1110b10b31" width=200><br>
 
 [![Alicia AI Video](https://github.com/malach1/portfolio/assets/5972850/f9b00883-7130-46d5-9792-d3885935132a)]([https://github.com/malach1/portfolio/assets/5972850/f9b00883-7130-46d5-9792-d3885935132a)
