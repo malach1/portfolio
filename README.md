@@ -3,6 +3,7 @@ A portfolio of a few apps I have created for learning purposes and showcasing.<b
 The animated gif is for high level viewing, but please click on the video links for greater quality viewing.<br><br>
 
 **CLONE APPS**
+Building production clones is a great way to learn great features and design that is performing well in production.  Here are some clones that I am able to copy, learn, and build.
 
 I created two Netflix clone.  The left uses UIKit and the right uses SwiftUI.
 The goal was to learn the techniques of the layouts and my findings is you can build and iterate faster with SwiftUI.<br><br>
