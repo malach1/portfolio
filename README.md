@@ -26,7 +26,7 @@ The iconic innovation of distributing video and gesturing panning was an interes
 <img src="https://github.com/malach1/portfolio/assets/5972850/d48cdcd6-d707-4804-9346-40bf0a29570e" width=300><br>
 
 
-[![Tik Tok Clone](https://github.com/malach1/portfolio/assets/5972850/8e4c93b9-50c3-48bf-a041-51e2d2c5b9ba)]([https://github.com/malach1/portfolio/assets/5972850/8e4c93b9-50c3-48bf-a041-51e2d2c5b9ba)
+[![Tik Tok Clone](https://github.com/malach1/portfolio/assets/5972850/f856cfae-ab87-47b9-b7d3-aff856758175)]([https://github.com/malach1/portfolio/assets/5972850/f856cfae-ab87-47b9-b7d3-aff856758175)
 
 <br><br>
 
