@@ -3,11 +3,11 @@ Welcome to my portfolio, a curated collection of innovative apps I've designed a
 
 ## CLONE APPS
 
-By recreating popular production apps, you'll gain hands-on experience with cutting-edge features and design principles that drive real-world success. Explore my collection of clones, where I've applied my skills to build functional replicas of industry-leading apps.
+By recreating popular production apps, I am able to gain hands-on experience with cutting-edge features and design principles that drive real-world success. Explore my collection of clones, where I've applied my skills to build functional replicas of industry-leading apps.
 
 ### Netflix Clone
   
-I recently built two identical Netflix-inspired apps, one using UIKit and the other using SwiftUI. The goal was to compare the two approaches and learn the techniques for creating layouts. My findings suggest that SwiftUI allows for faster development and iteration, making it a more efficient choice for building apps. With SwiftUI, I was able to quickly create and refine my app's layout, whereas the UIKit version required more time and effort to achieve the same result..<br><br>
+I recently built two Netflix-inspired apps, one using UIKit and the other using SwiftUI. The goal was to compare the two approaches and learn the techniques for creating layouts. My findings suggest that SwiftUI allows for faster development and iteration, making it a more efficient choice for building apps. With SwiftUI, I was able to quickly create and refine my app's layout, whereas the UIKit version required more time and effort to achieve the same result..<br><br>
 <img src="https://github.com/malach1/portfolio/assets/5972850/f299cc56-ea9e-40e7-952d-9fa27251d480" width=300><br>
 
 [![Netflix Clone Video](https://github.com/malach1/portfolio/assets/5972850/fdd97207-ddd1-4ff9-9432-09e8c4a3f329)]([https://github.com/malach1/portfolio/assets/5972850/fdd97207-ddd1-4ff9-9432-09e8c4a3f329)
