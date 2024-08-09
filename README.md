@@ -10,7 +10,7 @@ I'm fascinated by media features, and I built this app to gain hands-on experien
 
 <br><br>
 
-# SIDE PROJECTS
+# Projects in App Store
 
 ### map!t
   
