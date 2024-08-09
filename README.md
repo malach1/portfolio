@@ -26,6 +26,7 @@ As a resident of Japan, I've had the pleasure of hosting friends from around the
 Generative AI is an interesting phenomenon and I am doing research in the Applied Generative AI space.  I built Alicia AI as a language learning chatbot with features to help you study.<br><br>
 <img src="https://github.com/malach1/portfolio/assets/5972850/a05728c2-0c24-4a3e-a0b9-aa1110b10b31" width=200><br>
 
+App Store Link: https://apps.apple.com/jp/app/aliciaai/id6504069404?l=en-US
 [![Alicia AI Video](https://github.com/malach1/portfolio/assets/5972850/f9b00883-7130-46d5-9792-d3885935132a)]([https://github.com/malach1/portfolio/assets/5972850/f9b00883-7130-46d5-9792-d3885935132a)
 
 ## CLONE APPS
