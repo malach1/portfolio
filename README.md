@@ -60,7 +60,7 @@ The innovative approach of distributing video content and incorporating gesture-
 [![Tik Tok Clone](https://github.com/malach1/portfolio/assets/5972850/f856cfae-ab87-47b9-b7d3-aff856758175)]([https://github.com/malach1/portfolio/assets/5972850/f856cfae-ab87-47b9-b7d3-aff856758175)
 
 ## Dating App Concept
-Simple basic features for a dating app developed with SwiftUI. Good fundamental concepts for Interview Take Home Exams.
+Simple basic features for a dating app developed with SwiftUI. Good fundamental concepts for Interview Take Home Exams.<br><br>
 ![datingApp](https://github.com/user-attachments/assets/4a93f59e-4fcd-4a2b-a855-ebe944527ab1)
 <br><br>
 <a href="https://github.com/malach1/DatingAppAnimation/blob/main/README.md">Source</a>
