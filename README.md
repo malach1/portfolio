@@ -62,7 +62,7 @@ The innovative approach of distributing video content and incorporating gesture-
 ## Dating App Concept
 Simple basic features for a dating app developed with SwiftUI. Good fundamental concepts for Interview Take Home Exams.
 ![datingApp](https://github.com/user-attachments/assets/4a93f59e-4fcd-4a2b-a855-ebe944527ab1)
-<br>
+<br><br>
 <a href="https://github.com/malach1/DatingAppAnimation/blob/main/README.md">Source</a>
 
 
