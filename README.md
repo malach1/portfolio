@@ -29,7 +29,7 @@ Generative AI is an interesting phenomenon and I am doing research in the Applie
 App Store Link: https://apps.apple.com/jp/app/aliciaai/id6504069404?l=en-US
 [![Alicia AI Video](https://github.com/malach1/portfolio/assets/5972850/f9b00883-7130-46d5-9792-d3885935132a)]([https://github.com/malach1/portfolio/assets/5972850/f9b00883-7130-46d5-9792-d3885935132a)
 
-## CLONE APPS
+## CONCEPTS AND CLONE APPS
 
 By recreating popular production apps, I am able to gain hands-on experience with cutting-edge features and design principles that drive real-world success. Explore my collection of clones, where I've applied my skills to build functional replicas of industry-leading apps.
 
@@ -57,5 +57,12 @@ Airbnb is a prime example of a well-designed app that has invested significant t
 The innovative approach of distributing video content and incorporating gesture-based panning was a fascinating technique to master, allowing for a more immersive and interactive experience for users.<br><br>
 <img src="https://github.com/malach1/portfolio/assets/5972850/d48cdcd6-d707-4804-9346-40bf0a29570e" width=300><br>
 
-
 [![Tik Tok Clone](https://github.com/malach1/portfolio/assets/5972850/f856cfae-ab87-47b9-b7d3-aff856758175)]([https://github.com/malach1/portfolio/assets/5972850/f856cfae-ab87-47b9-b7d3-aff856758175)
+
+## Dating App Concept
+Simple basic features for a dating app developed with SwiftUI. Good fundamental concepts for Interview Take Home Exams.
+![datingApp](https://github.com/user-attachments/assets/4a93f59e-4fcd-4a2b-a855-ebe944527ab1)
+<br>
+<a href="https://github.com/malach1/DatingAppAnimation/blob/main/README.md">Source</a>
+
+
